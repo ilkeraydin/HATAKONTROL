@@ -1,0 +1,15 @@
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.csproj.AssemblyReference.cache
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.AssemblyInfoInputs.cache
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.AssemblyInfo.cs
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.csproj.CoreCompileInputs.cache
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\bin\Debug\net7.0\hatakontrol.exe
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\bin\Debug\net7.0\hatakontrol.deps.json
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\bin\Debug\net7.0\hatakontrol.runtimeconfig.json
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\bin\Debug\net7.0\hatakontrol.dll
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\bin\Debug\net7.0\hatakontrol.pdb
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.dll
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\refint\hatakontrol.dll
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.pdb
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\hatakontrol.genruntimeconfig.cache
+C:\Users\kiayd\Desktop\Yazılım\hatakontrol\obj\Debug\net7.0\ref\hatakontrol.dll
